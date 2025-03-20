@@ -12,7 +12,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=91Days&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/91Days/91Days/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/91Daysss/91Days/output/snake.svg" alt="Snake animation" />
 
 ###
 
